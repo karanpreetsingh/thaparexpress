@@ -1,0 +1,13 @@
+[13-Nov-2014 08:00:19 America/Chicago] PHP Warning:  mysql_connect(): Host 'amsrv20.fastcpanelserver.com' is not allowed to connect to this MySQL server in /home/txpress/public_html/public_html/config.php on line 14
+[13-Nov-2014 14:45:31 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/txpress/public_html/event_auto.php on line 36
+[13-Nov-2014 16:15:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/txpress/public_html/add.php on line 129
+[13-Nov-2014 16:16:53 America/Chicago] PHP Warning:  move_uploaded_file(i/1415917013.jpg): failed to open stream: No such file or directory in /home/txpress/public_html/add.php on line 51
+[13-Nov-2014 16:16:53 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpgbFKmQ' to 'i/1415917013.jpg' in /home/txpress/public_html/add.php on line 51
+[13-Nov-2014 16:23:09 America/Chicago] PHP Warning:  move_uploaded_file(i/1415917389.jpg): failed to open stream: No such file or directory in /home/txpress/public_html/add.php on line 51
+[13-Nov-2014 16:23:09 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpUSldse' to 'i/1415917389.jpg' in /home/txpress/public_html/add.php on line 51
+[13-Nov-2014 17:17:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/txpress/public_html/event_auto.php on line 36
+[13-Nov-2014 17:17:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/txpress/public_html/event_auto.php on line 37
+[13-Nov-2014 17:20:51 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/txpress/public_html/event_auto.php on line 52
+[13-Nov-2014 17:21:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/txpress/public_html/event_auto.php on line 52
+[14-Nov-2014 03:38:32 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/txpress/public_html/event_mega.php on line 2
+[22-Nov-2014 00:58:06 America/Chicago] PHP Parse error:  syntax error, unexpected '" ( "' (T_CONSTANT_ENCAPSED_STRING) in /home/txpress/public_html/add.php on line 82
