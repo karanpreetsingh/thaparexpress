@@ -2,30 +2,9 @@
 
 include('config.php');
 ?>
-
-<!DOCTYPE html>
-<html lang="en" class="no-js">
-	<head>
-		<meta charset="UTF-8" />
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-		<title>Thapar Express | Home</title>
-		<meta name="description" content="One stop for all of Thapar. THAPAR EXPRESS" />
-		<meta name="keywords" content="thapar express,thapar university,thaparexpress,thapar,express,all,of,thapar,events,thapar,societies,timetable,food in patiala,restaurants in patiala " />
-		<link rel="shortcut icon" href="../favicon.ico">
-		<link rel="stylesheet" href="font-awesome-4.2.0/css/font-awesome.min.css">
-
-		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
-		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
-        <link rel="stylesheet" type="text/css" href="css/component.css" />
-		<link rel="stylesheet" type="text/css" href="css/timeline.css" />
-		<script src="js/modernizr.custom.js"></script>
-	</head>
-	<body>
-		<div class="container">
-	<?php	include('menu.php');?>
-
-				<div class="content_main" >
+<!-- here is the header file -->
+<?php include('header.php'); ?>
+				
                     <div class="row">
                          <div class="col-lg-12">
                              <h1 class="page-header">Home</h1>
@@ -137,7 +116,7 @@ include('config.php');
          </div>
 
 		<div class="panel panel-default">
-           <div class="panel-heading"><a href="#" class="pull-right btn btn-primary">View all</a> <h4>Events</h4></div>
+           <div class="panel-heading"><a href="#" class="pull-right btn btn-primary">View all</a> <h4>Profiles</h4></div>
    			<div class="panel-body">
               
 				<ul class="timeline">
@@ -151,13 +130,13 @@ include('config.php');
 															<div class="timeline-body">
 																<p>
 				                                             
-																	<li><div class=\"timeline-badge danger\"><i class=\"fa fa-graduation-cap\"></i>
+																	<li ><div class=\"timeline-badge danger\"><i class=\"fa fa-graduation-cap\"></i>
 																</div>
-														Algo-Rush</p><br>
+														Thats how i fuck</p><br>
 											<ul> 
-													<li><b>Venue  -  </b>CSED Lab</li>
-													<li><b>Time   -  </b>9:00- 11:00pm 12 Nov 2014</li>
-													<li><b>Cost   -  </b>200/-</li>
+													<li><b>Venue  -  </b>Your Pussy</li>
+													<li><b>Time   -  </b>All the time</li>
+													<li><b>Cost   -  </b>200 per hour</li>
 												   
 												</ul>
 											
@@ -165,7 +144,27 @@ include('config.php');
 															</div>
 														</div>
 													</li> 
-													
+														<div class="timeline-panel">
+															<div class="timeline-heading">
+																<h3 class="timeline-title"><?php echo $row['name']; ?></h3>
+																</div>
+															<div class="timeline-body">
+																<p>
+				                                             
+																	<li ><div class=\"timeline-badge danger\"><i class=\"fa fa-graduation-cap\"></i>
+																</div>
+														Thats how i fuck</p><br>
+											<ul> 
+													<li><b>Venue  -  </b>Your Pussy</li>
+													<li><b>Time   -  </b>All the time</li>
+													<li><b>Cost   -  </b>200 per hour</li>
+												   
+												</ul>
+											
+											 <a class="btn btn-primary pull-right" href="event?id=12">View more></a>
+															</div>
+														</div>
+													</li> 
 													
 												</ul>
             </div>
@@ -232,11 +231,5 @@ include('config.php');
             <!-- /.row -->
 
 		
-		</div><!-- /container -->
-		<script src="js/classie.js"></script>
-		
-		<script>
-			new gnMenu( document.getElementById( 'gn-menu' ) );
-		</script>
-	</body>
-</html>
+<!-- here is the footer file -->
+<?php include('footer.php');?>
