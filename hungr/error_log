@@ -1,0 +1,2 @@
+[13-Nov-2014 16:28:16 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/txpress/public_html/numbers/index.php:1) in /home/txpress/public_html/numbers/index.php on line 3
+[13-Nov-2014 16:28:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/txpress/public_html/numbers/index.php:1) in /home/txpress/public_html/numbers/index.php on line 5

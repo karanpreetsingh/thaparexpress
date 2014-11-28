@@ -11,3 +11,20 @@
 [13-Nov-2014 17:21:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/txpress/public_html/event_auto.php on line 52
 [14-Nov-2014 03:38:32 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/txpress/public_html/event_mega.php on line 2
 [22-Nov-2014 00:58:06 America/Chicago] PHP Parse error:  syntax error, unexpected '" ( "' (T_CONSTANT_ENCAPSED_STRING) in /home/txpress/public_html/add.php on line 82
+[22-Nov-2014 03:45:01 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/txpress/public_html/participate.php:2) in /home/txpress/public_html/participate.php on line 7
+[22-Nov-2014 03:45:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/txpress/public_html/participate.php:2) in /home/txpress/public_html/participate.php on line 9
+[22-Nov-2014 03:45:34 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/txpress/public_html/participate.php:2) in /home/txpress/public_html/participate.php on line 7
+[22-Nov-2014 03:45:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/txpress/public_html/participate.php:2) in /home/txpress/public_html/participate.php on line 9
+[22-Nov-2014 03:54:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/txpress/public_html/participate.php on line 29
+[22-Nov-2014 03:56:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/txpress/public_html/participate.php on line 29
+[22-Nov-2014 03:57:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/txpress/public_html/participate.php on line 29
+[22-Nov-2014 03:59:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/txpress/public_html/participate.php on line 29
+[22-Nov-2014 04:01:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/txpress/public_html/participate.php on line 29
+[22-Nov-2014 04:02:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/txpress/public_html/participate.php on line 26
+[22-Nov-2014 04:03:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/txpress/public_html/participate.php on line 26
+[22-Nov-2014 04:03:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/txpress/public_html/participate.php on line 26
+[22-Nov-2014 04:14:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$query_insert_user' (T_VARIABLE) in /home/txpress/public_html/participate.php on line 28
+[22-Nov-2014 05:43:40 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/txpress/public_html/add.php on line 80
+[22-Nov-2014 05:44:40 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/txpress/public_html/add.php on line 80
+[22-Nov-2014 05:44:42 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/txpress/public_html/add.php on line 80
+[22-Nov-2014 05:44:54 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/txpress/public_html/add.php on line 80

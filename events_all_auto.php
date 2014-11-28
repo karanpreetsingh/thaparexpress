@@ -140,7 +140,7 @@ $result = mysql_query($query) or die(mysql_error());
  
 		</div>
                 
-
+  <footer class="footer">      <div class="container">        <p class="text-muted"><b>Thapar Express.</b> Let's make <b>Thapar</b> a better place to be at.</p>      </div>    </footer>
 
 				</div>
 		<script src="js/jquery.js"></script>
