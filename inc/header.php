@@ -9,19 +9,19 @@
 		<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-		<title>Thapar Express | Form</title>
+		<title>Thapar Express | </title>
 		<meta name="descripription" content="One stop for all of Thapar. THAPAR EXPRESS" />
 		<meta name="keywords" content="" />
 		<meta name="author" content="Codrops" />
-		<link rel="shortcut icon" href="../favicon.ico">
-		<link rel="stylesheet" href="font-awesome-4.2.0/css/font-awesome.min.css">
-		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
-		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
-		<link rel="stylesheet" type="text/css" href="css/component.css" />
-		<script src="js/modernizr.custom.js"></script>
-		<script type="text/javascript" src="scripts/jquery.min.js"></script>
+		<link rel="shortcut icon" href="../images/favicon.ico">
+		<link rel="stylesheet" href="../res/font-awesome-4.2.0/css/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="../res/css/normalize.css" />
+		<link rel="stylesheet" type="text/css" href="../res/css/bootstrap.min.css" />
+		<link rel="stylesheet" type="text/css" href="../res/css/component.css" />
+		<script src="../res/js/modernizr.custom.js"></script>
+		<script type="text/javascript" src="../res/scripts/jquery.min.js"></script>
 		
-<script type="text/javascript" src="scripts/jquery.form.js"></script>
+<script type="text/javascript" src="../res/scripts/jquery.form.js"></script>
 	</head>
 	<body>
 		<div class="container">

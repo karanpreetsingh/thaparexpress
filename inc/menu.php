@@ -13,7 +13,7 @@
                                         </ul></li>
 								<li><a   href="../hungr/index.php" class="gn-icon  menu_items gn-icon-food">Hungr</a></li>
 								<li><a   href="../articles.php" class="gn-icon  menu_items gn-icon-blog">Thaparlogs </a></li>
-								<li><a   href="../albums.php" class="gn-icon  menu_items gn-icon-pictures">Albums </a></li>
+								<li><a   href="../pictures.php" class="gn-icon  menu_items gn-icon-pictures">Albums </a></li>
 									 <?php if(isset($_SESSION['rollnum'])){		?>				
 								<li><a   href="../logout.php" class="gn-icon  menu_items gn-icon-exit">Log Out</a></li>
 								<?php } ?>
